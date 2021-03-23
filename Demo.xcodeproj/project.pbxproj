@@ -13,6 +13,7 @@
 		A759AB0526094B8800E3E622 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A759AB0326094B8800E3E622 /* Main.storyboard */; };
 		A759AB0726094B8800E3E622 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A759AB0626094B8800E3E622 /* Assets.xcassets */; };
 		A759AB0A26094B8800E3E622 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A759AB0826094B8800E3E622 /* LaunchScreen.storyboard */; };
+		A759AB1E26094E9F00E3E622 /* SharpImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A759AB1D26094E9F00E3E622 /* SharpImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A759AB0626094B8800E3E622 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A759AB0926094B8800E3E622 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A759AB0B26094B8800E3E622 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A759AB1D26094E9F00E3E622 /* SharpImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharpImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A759AAFF26094B8800E3E622 /* SceneDelegate.swift */,
 				A759AB0126094B8800E3E622 /* ViewController.swift */,
 				A759AB0326094B8800E3E622 /* Main.storyboard */,
+				A759AB1D26094E9F00E3E622 /* SharpImageView.swift */,
 				A759AB0626094B8800E3E622 /* Assets.xcassets */,
 				A759AB0826094B8800E3E622 /* LaunchScreen.storyboard */,
 				A759AB0B26094B8800E3E622 /* Info.plist */,
@@ -140,6 +143,7 @@
 				A759AB0226094B8800E3E622 /* ViewController.swift in Sources */,
 				A759AAFE26094B8800E3E622 /* AppDelegate.swift in Sources */,
 				A759AB0026094B8800E3E622 /* SceneDelegate.swift in Sources */,
+				A759AB1E26094E9F00E3E622 /* SharpImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
